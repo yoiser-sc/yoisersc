@@ -1,6 +1,6 @@
 - 🤗 Hi, I’m @yoisersc
 - 👨🏻‍💻 I’m interested in IA and ML
-- 🧑‍🏫 I’m currently learning data sience and backend
+- 🧑‍🏫 I’m currently learning data sience and dev.
 - 💞️ I’m looking to collaborate on IA
 - 📫 How to reach me @YoiserSC
 
